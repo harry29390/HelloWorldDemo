@@ -14,8 +14,7 @@
                 <input type="number" name="Age"><br>
 	Company:<br>
                 <input type="text" name="Company"><br>
-	Mobile:<br>
-                <input type="number" name="Mobile"><br>
+	
 	
 	
 </form> 
