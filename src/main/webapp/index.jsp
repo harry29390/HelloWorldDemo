@@ -12,6 +12,8 @@
                 <input type="text" name="Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
+	Company:<br>
+                <input type="text" name="Company"><br>
 </form> 
 
   </h2> All fields are optional </h2>
