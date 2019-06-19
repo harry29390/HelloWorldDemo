@@ -14,6 +14,9 @@
                 <input type="number" name="Age"><br>
 	Company:<br>
                 <input type="text" name="Company"><br>
+	Mobile No:<br>
+                <input type="number" name="MobileNo"><br>
+	
 </form> 
 
   </h2> All fields are optional </h2>
